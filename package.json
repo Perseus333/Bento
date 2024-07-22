@@ -1,7 +1,7 @@
 {
-  "name": "newTab",
-  "version": "1",
-  "description": "New Tab",
-  "author": "Perseus",
+  "name": "bento",
+  "version": "1.2.5",
+  "description": "🍱 Minimalist, elegant and hackable startpage inspired by the Bento box!",
+  "author": "Miguel Ávila",
   "license": "ISC"
 }
