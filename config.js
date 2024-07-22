@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Uni Mail',
-					link: 'https://mail.google.com/mail/u/0/#inbox',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 				{
 					name: 'Legacy Mail',
