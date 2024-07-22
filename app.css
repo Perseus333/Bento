@@ -262,7 +262,7 @@ body {
 .button__5 .buttonIcon {
   color: #94e2d5;
 }
-.button__5 .buttonIcon {
+.button__6 .buttonIcon {
   color: #89dceb;
 }
 
@@ -293,9 +293,6 @@ body {
 }
 .button:hover {
   background-color: var(--accent);
-}
-.button:hover svg {
-  stroke: var(--sfg);
 }
 
 .listsContainer {
@@ -343,7 +340,6 @@ body {
 }
 .listItem:hover {
   background-color: var(--accent);
-  color: var(--sfg);
 }
 
 /* M E D I A - Q U E R I E S */
