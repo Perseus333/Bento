@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Chat GPT',
-			icon: 'bot-message-square',
-			link: 'https://chatgpt.com/',
+			name: 'Discord',
+			icon: 'users',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
